@@ -2,15 +2,14 @@
 A simple, but surprisingly fun project started by turning an electric razor into a powerful vibrator similar to a Viberect.
 
 
-<h2>Video</h2> 
-<p>No modifications made to the razor. Video of initial operation:<p>
+<p>There are no modifications made to the razor. Just pop off the blades as you would to clean and push on an attachment. Video of initial operation:<p>
 https://youtu.be/DtnMCefC9_w
 
+<p>
 
-<table border="0">
-<tr border="0">
-<td border="0"><img src="https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibe80mmCapture.jpg" alt="Razor Vibe in motion" height="400" border="0"> </td>
-<td border="0"> </td>
-</tr>
+<img src="https://github.com/MikesMachines/RazorVibe/blob/main/media/Razvibe%20attachments.jpg" alt="RazorVibe weith some attachments" height="400" > 
 
-</table>
+<img src="https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibe80mmCapture.jpg" alt="Razor Vibe in motion" height="400" > 
+
+
+
