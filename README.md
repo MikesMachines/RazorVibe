@@ -9,5 +9,17 @@ https://youtu.be/DtnMCefC9_w
 
 
 <p><p>
+
+<table>
+<tr>
+<td> <img src=”https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibe80mmCapture.jpg” width=”280″ alt="RazorVibe in action"> </td>
+<td> <img src=”https://github.com/MikesMachines/RazorVibe/blob/main/media/Razvibe%20attachments.jpg” width=”280″> </td>
+</tr>
+<tr>
+<td> <img src=”https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibeInserting.jpg” width=”280″ > </td>
+<td> <img src=”https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibe_BaseM3Insert_Panasonic.jpg” width=”280″> </td>
+</tr>
+</table>
+
 <p><p>
-<img src="https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibe80mmCapture.jpg" alt="RazorVibe in action">
+
