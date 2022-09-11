@@ -7,19 +7,10 @@ A simple, but surprisingly fun project started by turning an electric razor into
 https://youtu.be/DtnMCefC9_w
 
 
-
-<p><p>
-
-<table>
-<tr>
-<td> <img src=”https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibe80mmCapture.jpg” width=”280″ alt="RazorVibe in action"> </td>
-<td> <img src=”https://github.com/MikesMachines/RazorVibe/blob/main/media/Razvibe%20attachments.jpg” width=”280″> </td>
+<table border="0">
+<tr border="0">
+<td border="0"><img src="https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibe80mmCapture.jpg" alt="Razor Vibe in motion" height="400" border="0"> </td>
+<td border="0"> </td>
 </tr>
-<tr>
-<td> <img src=”https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibeInserting.jpg” width=”280″ > </td>
-<td> <img src=”https://github.com/MikesMachines/RazorVibe/blob/main/media/RazorVibe_BaseM3Insert_Panasonic.jpg” width=”280″> </td>
-</tr>
+
 </table>
-
-<p><p>
-
